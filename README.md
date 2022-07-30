@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Khoa Nguyen.</h1>
 <h3 align="center">A Software Engineering Student based in Finland.</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently a **Bachelor Student** major in **Software Engineering**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Web Development and React.js**
 
 - 📫 How to reach me **nhkhoa020400@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/khoahng](linkedin.com/in/khoahng)
+- 📄 Know about my [experiences](linkedin.com/in/khoahng)!
 
-- ⚡ Fun fact **I do oil painting!**
+- ⚡ Fun fact **I do [Game Development!](https://hkhoa.itch.io/)**
+
+- 🙏 Check out my [Portfolio](https://hkhoa-ng.github.io/hkhoa-ng-portfolio/)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
