@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khoa Nguyen.</h1>
-<h3 align="center">A Software Engineering Student based in Finland.</h3>
+<h3 align="center">Check out <a href="https://hkhoa-ng.github.io/hkhoa-ng-portfolio/">my portfolio</a>!</h3>
 
-- 🔭 I’m currently a **Bachelor Student** major in **Software Engineering**
+- 🔭 I’m a **Bachelor Student** major in **Software Engineering**, based in **Finland**
 
 - 🌱 I’m currently learning **Web Development and React.js**
 
@@ -10,8 +10,6 @@
 - 📄 Know about my **[experiences](linkedin.com/in/khoahng)**!
 
 - ⚡ Fun fact I do **[Game Development!](https://hkhoa.itch.io/)**
-
-- 🙏 Check out my **[Portfolio](https://hkhoa-ng.github.io/hkhoa-ng-portfolio/)**!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
