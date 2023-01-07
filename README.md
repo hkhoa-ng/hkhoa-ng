@@ -3,7 +3,7 @@
 
 - 🔭 I’m a **Bachelor Student** major in **Software Engineering**, based in **Finland**
 
-- 🌱 I’m currently learning **Web Development and React.js**
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 📫 How to reach me **nhkhoa020400@gmail.com**
 
