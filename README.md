@@ -26,7 +26,6 @@ As a software engineering student, I am highly interested in web development - f
 - 🖼️ Check out my **[Portfolio](https://hkhoa-ng.github.io/hkhoa-ng-portfolio/)**!
 
 <br>
-<br>
 
 #
 
@@ -44,7 +43,6 @@ As a software engineering student, I am highly interested in web development - f
 
 <br>
 <h2 align="center">📊 Github Stats</h2>
-
 <div align = "center">
 
 <img alt="Khoa Nguyen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hkhoa-ng&show_icons=true&layout=compact&theme=dracula" height="200">
@@ -65,6 +63,7 @@ As a software engineering student, I am highly interested in web development - f
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+</details>
 
 <details open>
 <summary><b>🧰 Backend & Cloud</b></summary>
@@ -116,18 +115,19 @@ As a software engineering student, I am highly interested in web development - f
 <a  href="https://github.com/hkhoa-ng/event-go">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=event-go&theme=dracula" />
 </a>&nbsp;
-<a  href="https://github.com/hkhoa-ng/cli-pomodoro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=cli-pomodoro&theme=dracula" />
+<a  href="https://github.com/hkhoa-ng/react-realtime-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=react-realtime-chat&theme=dracula" />
 </a>&nbsp;
 <a  href="https://github.com/hkhoa-ng/hkhoa-ng-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=hkhoa-ng-portfolio&theme=dracula" />
 </a>&nbsp;
+<a  href="https://github.com/hkhoa-ng/cli-pomodoro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=cli-pomodoro&theme=dracula" />
+</a>&nbsp;
 <a  href="https://github.com/hkhoa-ng/yet-another-wordle-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=yet-another-wordle-clone&theme=dracula" />
 </a>&nbsp;
-<a  href="https://github.com/hkhoa-ng/react-realtime-chat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=react-realtime-chat&theme=dracula" />
-</a>&nbsp;
+
 <a  href="https://github.com/hkhoa-ng/quizzical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=quizzical&theme=dracula" />
 </a>&nbsp;
