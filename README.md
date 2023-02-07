@@ -1,29 +1,138 @@
-<h1 align="center">Hi 👋, I'm Khoa Nguyen.</h1>
-<h3 align="center">Check out <a href="https://hkhoa-ng.github.io/hkhoa-ng-portfolio/">my portfolio</a>!</h3>
+![Banner](./public/banner.png)
 
-- 🔭 I’m a **Bachelor Student** major in **Software Engineering**, based in **Finland**
+<p align="center">
+As a software engineering student, I am highly interested in web development - focusing on the frontend. My objective is to create web applications that are scalable, manageable, and user-friendly while providing a smooth user experience. I am continuously improving my skills by learning and trying out new technologies and frameworks to find the most effective solutions for the challenges I encounter.
+</p>
 
-- 🌱 I’m currently learning **Fullstack Development**
+##
 
-- 📫 How to reach me **nhkhoa020400@gmail.com**
+<br>
+<!-- Work illustrations by Storyset: https://storyset.com/work -->
+
+<img align="right" alt="GIF" src="./public/animation.svg" width="400px"/>
+
+<br>
+
+- 🔭 I’m a **Bachelor Student** major in **Software Engineering**, based in **Finland**.
+
+- 🌱 I’m currently learning **Fullstack Development**.
+
+- 📫 How to reach me **nhkhoa020400@gmail.com**.
 
 - 📄 Know about my **[experiences](linkedin.com/in/khoahng)**!
 
-- ⚡ Fun fact I do **[Game Development!](https://hkhoa.itch.io/)**
+- ⚡ Fun fact I do **[Game Development](https://hkhoa.itch.io/)**!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khoahng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoahng" height="30" width="40" /></a>
-<a href="https://instagram.com/_hkhoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hkhoa" height="30" width="40" /></a>
-<a href="https://www.behance.net/nhkhoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nhkhoa" height="30" width="40" /></a>
-</p>
+- 🖼️ Check out my **[Portfolio](https://hkhoa-ng.github.io/hkhoa-ng-portfolio/)**!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br>
+<br>
 
-<h3 align="left">GitHub Stats:</h3>
+#
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hkhoa-ng&show_icons=true&locale=en&layout=compact" alt="hkhoa-ng" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hkhoa-ng&show_icons=true&locale=en" alt="hkhoa-ng" /></p>
+<h2 align="center">📫 Connect with me</h2>
 
+<div align = "center">
+    
+[![Gmail: Khoa Nguyen](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nhkhoa020400@gmail.com)](mailto:nhkhoa020400@gmail.com)&nbsp;
+[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/nhkhoa)](https://linktr.ee/nhkhoa)&nbsp;
+[![Linkedin: Hoang-Khoa Nguyen](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoahng)](https://www.linkedin.com/in/khoahng)
+
+</div>
+
+<br>
+<h2 align="center">📊 Github Stats</h2>
+
+<div align = "center">
+
+<img alt="Khoa Nguyen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hkhoa-ng&show_icons=true&layout=compact&theme=dracula" height="200">
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhoa-ng&layout=compact&theme=dracula" height="200">
+
+</div>
+<br>
+
+<div align = "center">
+
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<details open>
+<summary><b>🏄‍♂️ Frontend</b></summary>
+<br>
+  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
+![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+
+<details open>
+<summary><b>🧰 Backend & Cloud</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/-Python-239120?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-cc6699?style=for-the-badge&logo=firebase)&nbsp;
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
+
+</details>
+
+<details open>
+<summary><b>💻 Software and Tools</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+<br>
+![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+
+</details>
+
+</div>
+
+<br>
+
+<h2 align="center">👨‍💻 My GitHub Projects</h2>
+<br>
+<a  href="https://github.com/hkhoa-ng/game-jam-july-2022">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=game-jam-july-2022&theme=dracula" />
+</a>&nbsp;
+<a  href="https://github.com/hkhoa-ng/event-go">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=event-go&theme=dracula" />
+</a>&nbsp;
+<a  href="https://github.com/hkhoa-ng/cli-pomodoro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=cli-pomodoro&theme=dracula" />
+</a>&nbsp;
+<a  href="https://github.com/hkhoa-ng/hkhoa-ng-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=hkhoa-ng-portfolio&theme=dracula" />
+</a>&nbsp;
+<a  href="https://github.com/hkhoa-ng/yet-another-wordle-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=yet-another-wordle-clone&theme=dracula" />
+</a>&nbsp;
+<a  href="https://github.com/hkhoa-ng/react-realtime-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=react-realtime-chat&theme=dracula" />
+</a>&nbsp;
+<a  href="https://github.com/hkhoa-ng/quizzical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=quizzical&theme=dracula" />
+</a>&nbsp;
+<a  href="https://github.com/hkhoa-ng/fire-out">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hkhoa-ng&repo=fire-out&theme=dracula" />
+</a>&nbsp;
+
+<!-- BLOG-POST-LIST:START -->
