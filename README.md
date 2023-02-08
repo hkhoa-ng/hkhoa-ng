@@ -45,8 +45,8 @@ As a software engineering student, I am highly interested in web development - f
 <h2 align="center">📊 Github Stats</h2>
 <div align = "center">
 
-<img alt="Khoa Nguyen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hkhoa-ng&show_icons=true&layout=compact&theme=dracula" height="200">
-<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhoa-ng&layout=compact&theme=dracula" height="200">
+<img alt="Khoa Nguyen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hkhoa-ng&show_icons=true&layout=compact&theme=dracula" height="170">
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhoa-ng&layout=compact&theme=dracula" height="170">
 
 </div>
 <br>
