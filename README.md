@@ -1,7 +1,7 @@
 ![Banner](./public/banner.png)
 
 <p align="center">
-As a software engineering student, I am highly interested in web development - focusing on the frontend. My objective is to create web applications that are scalable, manageable, and user-friendly while providing a smooth user experience. I am continuously improving my skills by learning and trying out new technologies and frameworks to find the most effective solutions for the challenges I encounter.
+Frontend Engineer specializing in Angular and AWS, with experience building enterprise level web apps and working in cross-functional teams. Passionate about design systems, accessibility, and cloud-first architectures.
 </p>
 
 ##
@@ -13,9 +13,9 @@ As a software engineering student, I am highly interested in web development - f
 
 <br>
 
-- 🔭 I’m a **Bachelor Student** major in **Software Engineering**, based in **Finland**.
+- 🔭 I’m a **Master's Student** major in **Software, Web & Cloud**, based in **Finland**.
 
-- 🌱 I’m currently learning **Fullstack Development**.
+- 🌱 I’m currently working on my **Master's thesis**.
 
 - 📫 How to reach me **nhkhoa020400@gmail.com**.
 
