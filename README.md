@@ -1,7 +1,7 @@
 ![Banner](./public/banner.png)
 
 <p align="center">
-Frontend Engineer specializing in Angular and AWS, with experience building enterprise level web apps and working in cross-functional teams. Passionate about design systems, accessibility, and cloud-first architectures.
+Software Engineer specializing in Web Development (Angular, React, Svelte) and Cloud Technology (AWS), with experience building enterprise-level web apps and working in cross-functional teams. Passionate about design systems, accessibility, and cloud-first architectures.
 </p>
 
 ##
@@ -13,9 +13,7 @@ Frontend Engineer specializing in Angular and AWS, with experience building ente
 
 <br>
 
-- 🔭 I’m a **Master's Student** major in **Software, Web & Cloud**, based in **Finland**.
-
-- 🌱 I’m currently working on my **Master's thesis**.
+- 🔭 I’m a **Software Engineer** based in **the Netherlands**.
 
 - 📫 How to reach me **nhkhoa020400@gmail.com**.
 
